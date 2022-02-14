@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
+    "socketio-wildcard": "^2.0.0"
+  }
+}
